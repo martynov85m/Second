@@ -1,0 +1,1 @@
+{"version":3,"sources":["styles.css"],"names":[],"mappings":"AAAA,KACE,WAAA,QAGF,QACE,gBAAA","file":"styles.css","sourcesContent":["body {\n  background: #11efac;\n}\n\nbody h2 {\n  text-decoration: overline;\n}"]}
